@@ -599,6 +599,6 @@ class TorsoRig:
     def getRootNode(self):
         return self.rootGrp
 
-
-
+class HeadRig:
+    
 
